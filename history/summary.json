@@ -59,18 +59,16 @@
     "icon": "https://favicons.githubusercontent.com/teknologi-pendidikan.github.io",
     "slug": "status-page",
     "status": "up",
-    "uptime": "1.00%",
-    "uptimeDay": "1.00%",
-    "uptimeWeek": "1.00%",
-    "uptimeMonth": "1.00%",
-    "uptimeYear": "1.00%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 79,
     "timeDay": 79,
     "timeWeek": 79,
     "timeMonth": 79,
     "timeYear": 79,
-    "dailyMinutesDown": {
-      "2022-04-04": 6
-    }
+    "dailyMinutesDown": {}
   }
 ]
