@@ -9,6 +9,8 @@ sites:
     url: https://lofi.um.teknologipendidikan.or.id
   - name: Hima UM
     url: https://hima.um.teknologipendidikan.or.id
+  - name: Status Page
+    url: https://status.sistem.teknologipendidikan.or.id
 
 status-website:
   cname: status.sistem.teknologipendidikan.or.id
