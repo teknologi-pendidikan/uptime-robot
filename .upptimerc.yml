@@ -13,8 +13,8 @@ sites:
     url: https://teknologi-pendidikan.github.io/uptime-robot/
 
 status-website:
-  # cname: status.sistem.teknologipendidikan.or.id
-  baseUrl: /uptime-robot
+  cname: status.sistem.teknologipendidikan.or.id
+  # baseUrl: /uptime-robot
   logoUrl: https://avatars.githubusercontent.com/u/74242819?s=200&v=4
   name: Teknologi Pendidikan System Status
   introTitle: "TeknoTEP Infrastructure Status"
