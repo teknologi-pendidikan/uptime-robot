@@ -4,9 +4,9 @@
     "url": "https://teknologipendidikan.or.id",
     "icon": "https://favicons.githubusercontent.com/teknologipendidikan.or.id",
     "slug": "main-sites",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 174,
     "timeMonth": 281,
     "timeYear": 281,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-14": 0
+    }
   },
   {
     "name": "LOFI-TEP",
     "url": "https://lofi.um.teknologipendidikan.or.id",
     "icon": "https://favicons.githubusercontent.com/lofi.um.teknologipendidikan.or.id",
     "slug": "lofi-tep",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,25 +35,29 @@
     "timeWeek": 1692,
     "timeMonth": 1007,
     "timeYear": 1007,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-14": 0
+    }
   },
   {
     "name": "Hima UM",
     "url": "https://hima.um.teknologipendidikan.or.id",
     "icon": "https://favicons.githubusercontent.com/hima.um.teknologipendidikan.or.id",
     "slug": "hima-um",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 574,
-    "timeDay": 216,
-    "timeWeek": 925,
-    "timeMonth": 574,
-    "timeYear": 574,
-    "dailyMinutesDown": {}
+    "time": 1538,
+    "timeDay": 7149,
+    "timeWeek": 2570,
+    "timeMonth": 1538,
+    "timeYear": 1538,
+    "dailyMinutesDown": {
+      "2022-04-14": 0
+    }
   },
   {
     "name": "Status Page",
